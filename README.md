@@ -35,3 +35,6 @@ python main.py
 
 After successful execution, the transformed file will be generated automatically in:
 output/result.xlsx
+
+## Author
+Jacek Ostrowski
